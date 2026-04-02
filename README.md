@@ -10,8 +10,6 @@ SpaScope provides a unified computational framework for identifying and characte
 
 ## Installation
 
-### Clone from GitHub
-
 ```bash
 git clone https://github.com/BaoSpatialLab/SpaScope.git
 cd SpaScope
