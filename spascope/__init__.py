@@ -24,6 +24,10 @@ from .contact import (
     compute_global_contact_scores,
     compute_per_sample_contact_scores,
 )
+from .datasets import (
+    load_demo_adata,
+    get_demo_adata_path,
+)
 
 __version__ = "0.1.0"
 
@@ -46,4 +50,6 @@ __all__ = [
     "compute_boundaries_and_interactions",
     "compute_global_contact_scores",
     "compute_per_sample_contact_scores",
+    "load_demo_adata",
+    "get_demo_adata_path",
 ]
