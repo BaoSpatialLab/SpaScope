@@ -10,11 +10,9 @@ SpaScope provides a unified computational framework for identifying and characte
 
 ## Installation
 
-<<<<<<< HEAD
 =======
 ### Install from GitHub
 
->>>>>>> 6d51740 (add built-in AnnData demo, example script, packaging updates, and README)
 ```bash
 git clone https://github.com/BaoSpatialLab/SpaScope.git
 cd SpaScope
