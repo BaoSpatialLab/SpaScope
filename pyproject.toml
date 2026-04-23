@@ -50,3 +50,8 @@ include = ["spascope*"]
 
 [tool.setuptools.package-data]
 spascope = ["data/demo/*.h5ad"]
+
+
+
+
+
